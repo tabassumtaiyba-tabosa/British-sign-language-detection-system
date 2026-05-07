@@ -1,0 +1,14 @@
+{
+  "total_frames": 639,
+  "total_inferences": 0,
+  "total_hand_detections": 0,
+  "hand_detection_rate_pct": 0.0,
+  "average_fps": 28.7,
+  "average_inference_ms": 0,
+  "min_inference_ms": 0,
+  "max_inference_ms": 0,
+  "demo_duration_seconds": 22.3,
+  "device": "cuda",
+  "confidence_threshold": 0.8,
+  "smoothing_window": 10
+}
